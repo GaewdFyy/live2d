@@ -1,0 +1,274 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup2",
+			"Name": "迪莫公皮"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup2",
+			"Name": "禁止贩卖和商用"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup2",
+			"Name": "制作人：清晨"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup2",
+			"Name": "清晨Q：2914245704"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup2",
+			"Name": "画师：星冰乐"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup2",
+			"Name": "星冰乐Q：2876246180"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamQX",
+			"GroupId": "",
+			"Name": "映射X"
+		},
+		{
+			"Id": "ParamQY",
+			"GroupId": "",
+			"Name": "映射Y"
+		},
+		{
+			"Id": "ParamZ2",
+			"GroupId": "",
+			"Name": "映射Z"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转 X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转 Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转 Z"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴 变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴 开闭"
+		},
+		{
+			"Id": "MoX",
+			"GroupId": "",
+			"Name": "歪嘴"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼 开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼 开闭"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "左眼物理"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "右眼物理"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "左耳物理"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "左耳物理2"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "右耳物理"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "右耳物理2"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "毛发X物理1"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "毛发X物理2"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "毛发Y物理1"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "毛发Y物理2"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "脚物理1"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "脚物理2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "尾巴翻面"
+		},
+		{
+			"Id": "Param_Angle_Rotation3",
+			"GroupId": "ParamGroup",
+			"Name": "[0]尾巴旋转"
+		},
+		{
+			"Id": "Param_Angle_Rotation4",
+			"GroupId": "ParamGroup",
+			"Name": "[1]尾巴旋转"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup",
+			"Name": "[2]尾巴旋转"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup",
+			"Name": "[3]尾巴旋转"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup",
+			"Name": "[4]尾巴旋转"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "免费模型！！！"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "尾巴旋转"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "眼"
+		},
+		{
+			"Id": "Part2",
+			"Name": "口腔"
+		},
+		{
+			"Id": "Part3",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part4",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "Part5",
+			"Name": "脖子"
+		},
+		{
+			"Id": "Part6",
+			"Name": "爪子"
+		},
+		{
+			"Id": "Part7",
+			"Name": "脚"
+		},
+		{
+			"Id": "Part8",
+			"Name": "腿"
+		},
+		{
+			"Id": "Part9",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part10",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "ArtMesh19_Skinning",
+			"Name": "尾巴(蒙皮)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
